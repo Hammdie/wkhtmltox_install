@@ -1,4 +1,4 @@
-Certainly! Here's a suggested repository description for your GitHub project:
+Absolutely! Here's the updated repository description with the additional information:
 
 ---
 
@@ -27,10 +27,12 @@ Encountering errors like the one mentioned above? Check the provided steps in th
 
 ## Important Note
 
+For newer versions of wkhtmltopdf or installations on different operating systems and processor architectures, please refer to the [official wkhtmltopdf downloads page](https://wkhtmltopdf.org/downloads.html) and consult their documentation. This script is designed for Ubuntu platforms, and its effectiveness may vary based on your specific system configurations.
+
 Feel free to reach out if you encounter any issues or need assistance. Enjoy a seamless wkhtmltopdf experience with the patched Qt for enhanced functionality!
 
 **Disclaimer:** This script is designed for Ubuntu platforms, and its effectiveness may vary based on your specific system configurations. Always consult the official resources or documentation for the latest information.
 
 ---
 
-Feel free to tailor this description according to your project's specifics and preferences.
+Feel free to make any further adjustments or additions based on your project's needs.
